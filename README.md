@@ -3,6 +3,8 @@
 
 This repository collects papers from major NLP, AI, and ML conferences (e.g., ACL, EMNLP, AAAI, NeurIPS, IJCAI, etc.) published between 2019 and 2025.It is maintained by Li Xinyu, based on long-term research experience in this area since undergraduate study.
 
+🎓 About this project: I started researching fake news detection as an undergraduate in my senior year and continued throughout my graduate studies. Upon completing my master's degree, I decided to organize the most relevant papers and datasets I’ve encountered and share them publicly to support the community and future researchers.
+
 📚 Covered Topics
 
 Fake News Detection
