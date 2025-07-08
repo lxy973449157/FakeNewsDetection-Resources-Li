@@ -7,27 +7,20 @@ This repository collects papers from major NLP, AI, and ML conferences (e.g., AC
 
 ## 📚 Covered Topics
 
-Fake News Detection
-
-Misinformation / Disinformation
-
-Rumor Detection
-
-Stance Detection
-
-Claim Verification / Fact-Checking
+- Fake News Detection
+- Misinformation / Disinformation
+- Rumor Detection
+- Stance Detection
+- Claim Verification / Fact-Checking
 
 ## 🔍 Common Keywords
 
 These keywords are used to tag and filter papers:
 
-rumour, rumor, news
-
-fact, fact-checked, evidence-based
-
-misinformation, fake news
-
-rumor detection, claim verification
+- `rumour`, `rumor`, `news`
+- `fact`, `fact-checked`, `evidence-based`
+- `misinformation`, `fake news`
+- `rumor detection`, `claim verification`
 
 ## 🏆 Covered Conferences
 
@@ -43,7 +36,7 @@ COLING / EACL(More to be added as the field evolves)
 
 ## 📬 Contact
 
-Maintained by Li Xinyu.
+Maintained by [Li Xinyu](mailto\:973449157@qq.com)\.
 
 ## ⭐ Star This Repo!
 
