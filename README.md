@@ -41,7 +41,7 @@ COLING / EACL(More to be added as the field evolves)
 
 📬 Contact
 
-Maintained by Li XinyuFor suggestions, feel free to open an issue or pull request.
+Maintained by Li Xinyu.
 
 ⭐ Star This Repo!
 
