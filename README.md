@@ -51,12 +51,11 @@ NeurIPS / ICML
 WWW / CIKM / KDD
 
 COLING / EACL
----
+
 
 ## 📬 Contact
 
 Maintained by [Li Xinyu](mailto\:973449157@qq.com)\.
----
 
 ## ⭐ Star This Repo!
 
