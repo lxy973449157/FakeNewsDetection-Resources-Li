@@ -1,4 +1,17 @@
 # FakeNewsDetection-Resources-Li
+
+## 📁 Repository Structure
+
+```bash
+FakeNewsDetection-Resources-Li/
+├── Chinese Core Journal Papers/       # Domestic journal papers (in Chinese)
+├── Fake new detection datasets/       # Curated datasets for fake news detection
+├── Top Conference Papers/             # Papers from international top-tier conferences
+└── README.md                          # Project description
+```
+
+---
+
 > 🗂️ Popular Datasets
 
 Below is a list of widely used datasets in fake news and rumor detection research:
@@ -60,5 +73,5 @@ Maintained by [Li Xinyu](mailto\:973449157@qq.com)\.
 ## ⭐ Star This Repo!
 
 If you find this collection helpful, please consider giving it a ⭐! 
-Thank u!
+**Thank you!**
 
